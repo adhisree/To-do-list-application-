@@ -119,7 +119,7 @@ Open a Pull Request
 This project is licensed under the MIT License — free to use and modify.
 
 ✨ Author
-Developed by:Adhisree S.S
+Developed by:Adhisree 
 📧 Email: adhisree03042006@gmail.com
 
 
